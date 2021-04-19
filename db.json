@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieTitle": "Tmavomodry svet",
+      "movieYear": 2010
+    },
+    {
+      "id": 2,
+      "movieTitle": "Kod enigmy",
+      "movieYear": 2016
+    },
+    {
+      "id": 3,
+      "movieTitle": "Avengers",
+      "movieYear": 2012
+    },
+    {
+      "id": 4,
+      "movieTitle": "Forest gump",
+      "movieYear": 2000
+    },
+    {
+      "id": 5,
+      "movieTitle": "Inglorious bastards",
+      "movieYear": 2009
+    },
+    {
+      "id": 6,
+      "movieTitle": "Fight club",
+      "movieYear": 2007
+    }
+  ]
+}
